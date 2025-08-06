@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    color: #ffffff;
+    background-color: #38598b;
+}
+
+#startButton {
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #000000;
+    background-color: #a2a8d3;
+    border-radius: 15px;
+}
+
+#clickButton {
+    padding: 10px 20px;
+    font-size: 72px;
+    border-radius: 15px;
+    color: #000000;
+    background-color: #e7eaf6;
+}
